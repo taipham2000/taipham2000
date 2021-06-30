@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, my name is TaiPham
+#### I am GitHub Readme Generator's creator
 
-<!--
-**taipham2000/taipham2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taipham2000&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Tai from VietNam, and I'm a student at FPT University. My major is software engineering.
+
+##Skill and Experience: 
+- Java
+- C
+- C#
+- HTML/CSS/JS
+
+![GitHub followers](https://img.shields.io/github/followers/taipham2000?style=social)
+
+##About me
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning JS 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/taipham2000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/79TaiPham79)  
