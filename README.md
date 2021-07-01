@@ -3,7 +3,7 @@
 
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taipham2000&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taipham2000&show_icons=true&theme=merko)
 
 I'm Tai from VietNam, and I'm a student at FPT University. My major is software engineering.
 
