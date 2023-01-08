@@ -8,9 +8,9 @@
 I'm Tai from VietNam, and I'm a student at FPT University. My major is software engineering.
 
 ##Skill and Experience: 
+- JavaScript
+- React
 - Java
-- C
-- C#
 - HTML/CSS/JS
 
 ![GitHub followers](https://img.shields.io/github/followers/taipham2000?style=social)
