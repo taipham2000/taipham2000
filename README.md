@@ -11,6 +11,8 @@ I'm Tai from VietNam, and I'm a student at FPT University. My major is software 
 - JavaScript
 - React
 - Java
+- Python
+- Odoo
 - HTML/CSS/JS
 
 ![GitHub followers](https://img.shields.io/github/followers/taipham2000?style=social)
